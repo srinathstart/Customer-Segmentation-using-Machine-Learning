@@ -5,6 +5,4 @@ Currently, the retailer groups customers by country, which is inefficient due to
 
 This project is based on Unsupervised Learning.
 
-Input dataset is present in Files folder.
-
 I jupyter Notebbook their is actual coding right from Data Analysis to clustering using K-mean.
